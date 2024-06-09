@@ -1,4 +1,4 @@
-use intern;
+use data;
 
 -- Q1. Check NULL values
 SELECT 
